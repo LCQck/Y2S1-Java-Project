@@ -4,6 +4,10 @@
 
 This project is a Java-based student management system developed for CPT105 Introduction to Programming in Java. It consists of three parts: Part A, B, and C, each focusing on different aspects of the system's functionality and documentation.
 
+### Contributor
+- **Name**: Changqing Lin
+- **ID**: 2039153  
+
 ## Features
 
 - GUI simulation of data encapsulation and transmission.
