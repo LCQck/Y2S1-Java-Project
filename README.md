@@ -8,6 +8,9 @@ This project is a Java-based student management system developed for CPT105 Intr
 - **Name**: Changqing Lin
 - **ID**: 2039153  
 
+## Description  
+A comprehensive Java-based student management system developed for the CPT105 Introduction to Programming in Java course. This system features GUI data encapsulation, management of students, courses, teachers, and grades, along with robust encryption for sensitive data. It embodies the principles of object-oriented programming and showcases serialization for data persistence.  
+
 ## Features
 
 - GUI simulation of data encapsulation and transmission.
